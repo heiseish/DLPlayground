@@ -1,0 +1,12 @@
+intentionClassifier/model/
+intentionClassifier/cases/
+intentionClassifier/BERT/
+
+seq2seqRL/__pycache__
+seq2seqRL/data/
+seq2seqRL/saved/
+seq2seqRL/dump/
+
+*.json
+*.pth
+*.pkl
